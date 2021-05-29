@@ -9,24 +9,6 @@
       "title": "New stream",
       "description": "This is a good stream",
       "id": 2
-    },
-    {
-      "title": "sad",
-      "description": "asd",
-      "userId": "107474546958706913903",
-      "id": 6
-    },
-    {
-      "title": "Programmeric Navigation",
-      "description": "Good one (revise)",
-      "userId": "107474546958706913903",
-      "id": 7
-    },
-    {
-      "title": "Component Reuse",
-      "description": "Refactor the Component (Revise)",
-      "userId": "107474546958706913903",
-      "id": 8
     }
   ]
 }
