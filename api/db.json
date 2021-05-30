@@ -9,6 +9,18 @@
       "title": "New stream",
       "description": "This is a good stream",
       "id": 2
+    },
+    {
+      "title": "test (edit)",
+      "description": "test",
+      "userId": "107474546958706913903",
+      "id": 3
+    },
+    {
+      "title": "This is a new one ",
+      "description": "created by yuenu",
+      "userId": "107474546958706913903",
+      "id": 4
     }
   ]
 }
